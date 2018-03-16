@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../Autograder"
+      name = "Autograder">
+      <FileRef
+         location = "group:Autograder.xcconfig">
+      </FileRef>
+      <Group
+         location = "group:CategoryViewController"
+         name = "CategoryViewController">
+         <FileRef
+            location = "group:CategoryViewControllerTestSuite.csv">
+         </FileRef>
+         <FileRef
+            location = "group:CategoryViewControllerTestSuite.json">
+         </FileRef>
+         <FileRef
+            location = "group:CategoryViewControllerTestSuite.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:CONFIG">
+      </FileRef>
+      <FileRef
+         location = "group:config.json">
+      </FileRef>
+      <Group
+         location = "group:Frameworks"
+         name = "Frameworks">
+         <Group
+            location = "group:BKAutograder.framework"
+            name = "BKAutograder.framework">
+            <Group
+               location = "group:_CodeSignature"
+               name = "_CodeSignature">
+               <FileRef
+                  location = "group:CodeResources">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:BKAutograder">
+            </FileRef>
+            <Group
+               location = "group:Headers"
+               name = "Headers">
+               <FileRef
+                  location = "group:BKAutograder-Swift.h">
+               </FileRef>
+               <FileRef
+                  location = "group:BKAutograder.h">
+               </FileRef>
+               <FileRef
+                  location = "group:CDStructures.h">
+               </FileRef>
+               <FileRef
+                  location = "group:CGGeometry-KIFAdditions.h">
+               </FileRef>
+               <FileRef
+                  location = "group:ExceptionCatcher.h">
+               </FileRef>
+               <FileRef
+                  location = "group:GCDAsyncSocket.h">
+               </FileRef>
+               <FileRef
+                  location = "group:GCDAsyncUdpSocket.h">
+               </FileRef>
+               <FileRef
+                  location = "group:IOHIDEvent+KIF.h">
+               </FileRef>
+               <FileRef
+                  location = "group:LoadableCategory.h">
+               </FileRef>
+               <FileRef
+                  location = "group:UIApplication-KIFAdditions.h">
+               </FileRef>
+               <FileRef
+                  location = "group:UIEvent+KIFAdditions.h">
+               </FileRef>
+               <FileRef
+                  location = "group:UITouch-KIFAdditions.h">
+               </FileRef>
+               <FileRef
+                  location = "group:UIView-KIFAdditions.h">
+               </FileRef>
+               <FileRef
+                  location = "group:XCDebugLogDelegate-Protocol.h">
+               </FileRef>
+               <FileRef
+                  location = "group:XCSynthesizedEventRecord.h">
+               </FileRef>
+               <FileRef
+                  location = "group:XCTASDebugLogDelegate-Protocol.h">
+               </FileRef>
+               <FileRef
+                  location = "group:XCTestConfiguration.h">
+               </FileRef>
+               <FileRef
+                  location = "group:XCTestDriver.h">
+               </FileRef>
+               <FileRef
+                  location = "group:XCTestDriverInterface-Protocol.h">
+               </FileRef>
+               <FileRef
+                  location = "group:XCTestManager.h">
+               </FileRef>
+               <FileRef
+                  location = "group:XCTestManager_IDEInterface-Protocol.h">
+               </FileRef>
+               <FileRef
+                  location = "group:XCTestManager_ManagerInterface-Protocol.h">
+               </FileRef>
+               <FileRef
+                  location = "group:XCTestManager_TestsInterface-Protocol.h">
+               </FileRef>
+               <FileRef
+                  location = "group:XCTestManagerIDEServerDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:XCTRunnerDaemonSession.h">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+            <Group
+               location = "group:Modules"
+               name = "Modules">
+               <Group
+                  location = "group:BKAutograder.swiftmodule"
+                  name = "BKAutograder.swiftmodule">
+                  <FileRef
+                     location = "group:i386.swiftdoc">
+                  </FileRef>
+                  <FileRef
+                     location = "group:i386.swiftmodule">
+                  </FileRef>
+                  <FileRef
+                     location = "group:x86_64.swiftdoc">
+                  </FileRef>
+                  <FileRef
+                     location = "group:x86_64.swiftmodule">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:module.modulemap">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:public_key.pem">
+            </FileRef>
+         </Group>
+      </Group>
+      <FileRef
+         location = "group:Info.plist">
+      </FileRef>
+      <Group
+         location = "group:SearchViewController"
+         name = "SearchViewController">
+         <FileRef
+            location = "group:SearchViewControllerTestSuite.csv">
+         </FileRef>
+         <FileRef
+            location = "group:SearchViewControllerTestSuite.json">
+         </FileRef>
+         <FileRef
+            location = "group:SearchViewControllerTestSuite.swift">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
